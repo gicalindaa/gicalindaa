@@ -1,13 +1,14 @@
-### Hi there 👋
-Estou estudando na Alura
+### SEJA BEM-VINDO AO MEU PERFIL !!! 💙💙
 
-Estou me desenvolvendo na linguagem JavaScript
+° Estou estudando na Alura.
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+° Estou me desenvolvendo na linguagem JavaScript.
 
-Entre em contato comigo
+° Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-00001093736288P@al.educacao.sp.gov.br
+- Entre em contato comigo !! 💙💙
+
+- 00001093736288P@al.educacao.sp.gov.br
 
 ![](link)
 
