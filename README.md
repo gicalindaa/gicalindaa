@@ -1,8 +1,12 @@
 ### Hi there 👋
 Estou estudando na Alura
+
 Estou me desenvolvendo na linguagem JavaScript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
 Entre em contato comigo
+
 00001093736288P@al.educacao.sp.gov.br
 
 ![](link)
